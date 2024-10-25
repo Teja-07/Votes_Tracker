@@ -34,7 +34,8 @@ This project provides a simple voting system API that allows multiple users to v
 
 2. **`castVote` API**  
    Takes a candidate's name as a parameter, increments the vote count for the candidate, and returns the updated vote count.
-  ![Uploading Screenshot 2024-10-24 at 7.24.31 PM.png…]()
+  <img width="1414" alt="Screenshot 2024-10-24 at 7 24 31 PM" src="https://github.com/user-attachments/assets/74671843-69b2-4ab3-8bd6-c1da645956ff">
+
 
 
 
