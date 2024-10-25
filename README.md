@@ -28,17 +28,20 @@ This project provides a simple voting system API that allows multiple users to v
 
 1. **`enterCandidate` API**  
    Takes a candidate's name as a parameter and saves it into a table with the vote count initialized to 0.
-   ![image](https://github.com/user-attachments/assets/7a165006-c2d3-47b3-b10e-1d6617189f8b)
+  ![Screenshot 2024-10-24 at 7 22 58 PM](https://github.com/user-attachments/assets/f7d007fa-369c-4722-8397-46c404237c86)
+
 
 
 2. **`castVote` API**  
    Takes a candidate's name as a parameter, increments the vote count for the candidate, and returns the updated vote count.
-   ![image](https://github.com/user-attachments/assets/63840103-fd09-4bee-b6b2-2e204e079f16)
+  ![Uploading Screenshot 2024-10-24 at 7.24.31 PM.png…]()
+
 
 
 3. **`countVote` API**  
    Takes a candidate's name as a parameter and returns the latest vote count for that candidate.
-   ![image](https://github.com/user-attachments/assets/10dcffa4-6c2e-4d78-a732-ebe2345543b3)
+  <img width="1358" alt="Screenshot 2024-10-24 at 7 25 10 PM" src="https://github.com/user-attachments/assets/7178efc1-c4e2-4fa2-b1fc-252d8c3e1cac">
+
 
 
 4. **`listVote` API**  
