@@ -42,11 +42,12 @@ This project provides a simple voting system API that allows multiple users to v
 
 
 4. **`listVote` API**  
-   ![image](https://github.com/user-attachments/assets/e0f36228-c55f-414d-ae07-63784ebadb46)
+   <img width="1407" alt="Screenshot 2024-10-24 at 7 26 54 PM" src="https://github.com/user-attachments/assets/b1c56e99-5df5-4e54-a53c-0d77b757121f">
+
 
 
 5. **`getWinner` API**  
-  ![image](https://github.com/user-attachments/assets/f44478d9-3317-4552-acff-ae5844dbb658)
+ <img width="1334" alt="Screenshot 2024-10-24 at 7 27 23 PM" src="https://github.com/user-attachments/assets/4c3d48e6-a5d6-4ff0-9c58-e0f6fd397675">
 
 
 ```markdown
